@@ -86,6 +86,7 @@ print(f"{np.array2string(euler_angles, precision=4, suppress_small=True)}->{np.a
 print("\nLet's test Singular Configuration by setting Theta_2 = pi/2:")
 euler_angles[1] = np.pi/2
 print("\nSingular Angles are:")
+print(np.array_str(euler_angles, precision=4, suppress_small=True))
 print("\nEuler Angle to Rotation Matrix Conversion gives:")
 e2rm_matrix = e2rm(euler_angles)
 print(np.array_str(e2rm_matrix, precision=4, suppress_small=True))
