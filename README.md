@@ -20,5 +20,6 @@ The assignments given out (for the course) are summarized in the table below
 | :---- | :---- |
 | [Assignment 1](./Assignment_1/README.md) | Configuration Space, Parametrization, Task Space, Work Space and Degree of Freedom |
 | [Assignment 2](./Assignment_2/README.md) | Rotation matrices, IK, FK, and DH parameters |
+| [Assignment 3](./Assignment_3/README.md) | Position and Velocity IK, FK, DH parameters and Dynamics |
 
 Note: The README's in this repository are inspired by [this](https://github.com/TheProjectsGuy/MR21-CS7.503)
