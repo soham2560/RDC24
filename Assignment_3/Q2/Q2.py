@@ -58,7 +58,7 @@ class OrthoParallel(DHRobot):
             manufacturer="Soham Patil",
         )
 
-        self.qr = np.zeros(3)
+        self.qr = np.zeros(4)
 
         self.addconfiguration("qr", self.qr)
 
