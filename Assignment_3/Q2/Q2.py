@@ -69,4 +69,4 @@ if __name__ == "__main__":
     configs = inverse_kinematics(x, y, z, l1, l2, l3)
 
     op = OrthoParallel()
-    op.plot(q=configs, dt = 1, limits=[-1.5,1.5,-1.5,1.5,-1.5,1.5], loop=True)
+    op.plot(q=configs, dt = 1, limits=[-1.5,1.5,-1.5,1.5,-1.5,1.5],movie="ik_4solutions.gif")
