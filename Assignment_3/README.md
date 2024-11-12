@@ -25,7 +25,7 @@ The contents are described as follows
 
 ## Python Environment
 
-The anaconda environment used to run this notebook can be created using [environment.yml](./environment.yml) file by running the below command in the `Assignment_2` folder
+The anaconda environment used to run this notebook can be created using [environment.yml](./environment.yml) file by running the below command in the `Assignment_3` folder
 ```bash
     conda env create -f environment.yml
 ```
