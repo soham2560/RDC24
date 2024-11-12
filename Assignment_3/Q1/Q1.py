@@ -1,5 +1,4 @@
 import numpy as np
-from spatialmath.base import trotx, transl
 from roboticstoolbox import DHRobot, RevoluteMDH
 
 def dh_transform(alpha, a, d, theta):
