@@ -21,6 +21,7 @@ The contents are described as follows
 | [Q2](./Q2/) | Folder containing solution and outputs for Q2 |
 | [Q3](./Q3/) | Folder containing solution and outputs for Q3 |
 | [Q4](./Q4/) | Folder containing solution and outputs for Q4 |
+| [RDC_Assignment_3_Theory.pdf](./RDC_Assignment_3_Theory.pdf) | Handwritten Theory Solutions for the assignment |
 
 ## Python Environment
 
